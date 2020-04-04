@@ -12,6 +12,11 @@
 <body>
 <div class="container  panel panel-info">
   <h3 class="panel-heading">ver-1</h3>
-</div>
+</div><!-- end ver-1 -->
+
+<div class="container  panel panel-success">
+  <h3 class="panel-heading">ver-2</h3>
+</div><!-- end ver-2 -->
+
 </body>
 </html>
