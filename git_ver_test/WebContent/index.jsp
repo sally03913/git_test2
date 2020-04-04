@@ -22,5 +22,9 @@
   <h3 class="panel-heading">ver-3</h3>
 </div><!-- end ver-3 -->
 
+<div class="container  panel panel-warning">
+  <h3 class="panel-heading">ver-4</h3>
+</div><!-- end ver-4 -->
+
 </body>
 </html>
