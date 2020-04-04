@@ -26,5 +26,13 @@
   <h3 class="panel-heading">ver-4</h3>
 </div><!-- end ver-4 -->
 
+<div class="container  panel panel-warning">
+  <h3 class="panel-heading">ver-5</h3>
+</div><!-- end ver-5 -->
+
+<div class="container  panel panel-warning">
+  <h3 class="panel-heading">ver-6</h3>
+</div><!-- end ver-5 -->
+
 </body>
 </html>
